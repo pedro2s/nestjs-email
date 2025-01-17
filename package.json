@@ -51,6 +51,7 @@
 		"@types/node": "^22.10.0",
 		"fbjs-scripts": "^3.0.1",
 		"liquidjs": "^10.20.1",
+		"mailersend": "^2.3.0",
 		"mailgun.js": "^11.1.0",
 		"rimraf": "^6.0.1",
 		"typescript": "^5.7.2"
