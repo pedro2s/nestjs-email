@@ -7,4 +7,5 @@ export * from './email/constants/injection-tokens';
 export * from './email/providers/mailgun.provider';
 export * from './email/providers/sendgrid.provider';
 export * from './email/providers/mailersend.provider';
+export * from './email/providers/smtp.provider';
 export * from './email/engines/liquid-template.engine';
